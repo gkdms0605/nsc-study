@@ -2,12 +2,12 @@
 
 &nbsp;
 ## 목차
-- [소개](https://github.com/gkdms0605/nsc-study/edit/main/README.md#%EC%86%8C%EA%B0%9C-)
-- [의사소통능력](https://github.com/gkdms0605/nsc-study/edit/main/README.md#%EC%9D%98%EC%82%AC%EC%86%8C%ED%86%B5-%EB%8A%A5%EB%A0%A5)
-- [수리능력](https://github.com/gkdms0605/nsc-study/edit/main/README.md#%EC%88%98%EB%A6%AC-%EB%8A%A5%EB%A0%A5)
-- [문제 해결능력](https://github.com/gkdms0605/nsc-study/edit/main/README.md#%EB%AC%B8%EC%A0%9C-%ED%95%B4%EA%B2%B0-%EB%8A%A5%EB%A0%A5) 
-- [자원 관리능력](https://github.com/gkdms0605/nsc-study/edit/main/README.md#%EC%9E%90%EC%9B%90-%EA%B4%80%EB%A6%AC-%EB%8A%A5%EB%A0%A5)
-- [대인 관계능력](https://github.com/gkdms0605/nsc-study/edit/main/README.md#%EB%8C%80%EC%9D%B8-%EA%B4%80%EA%B3%84-%EB%8A%A5%EB%A0%A5)
+- [소개](https://github.com/gkdms0605/nsc-study/blob/main/README.md#%EC%86%8C%EA%B0%9C-)
+- [의사소통능력](https://github.com/gkdms0605/nsc-study/blob/main/README.md#%EC%9D%98%EC%82%AC%EC%86%8C%ED%86%B5-%EB%8A%A5%EB%A0%A5)
+- [수리능력](https://github.com/gkdms0605/nsc-study/blob/main/README.md#%EC%88%98%EB%A6%AC-%EB%8A%A5%EB%A0%A5)
+- [문제 해결능력](https://github.com/gkdms0605/nsc-study/blob/main/README.md#%EB%AC%B8%EC%A0%9C-%ED%95%B4%EA%B2%B0-%EB%8A%A5%EB%A0%A5) 
+- [자원 관리능력](https://github.com/gkdms0605/nsc-study/blob/main/README.md#%EC%9E%90%EC%9B%90-%EA%B4%80%EB%A6%AC-%EB%8A%A5%EB%A0%A5)
+- [대인 관계능력](https://github.com/gkdms0605/nsc-study/blob/main/README.md#%EB%8C%80%EC%9D%B8-%EA%B4%80%EA%B3%84-%EB%8A%A5%EB%A0%A5)
 
 &nbsp;
 
