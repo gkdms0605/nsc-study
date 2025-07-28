@@ -24,7 +24,7 @@
 > 의사소통 능력은 문서를 읽고 해당 문서의 요점을 파악하여, 상황과 요점에 적합한 문서를 작성하는 능력과
 말하는 목적을 정확하게 전달 & 경청하는 능력을 요구합니다.
 
-- [관련 개념 정리](https://github.com/gkdms0605/nsc-study/blob/main/communication-skills.md#%EC%9D%98%EC%82%AC%EC%86%8C%ED%86%B5%EB%8A%A5%EB%A0%A5-%EC%86%8C%EA%B0%9C)
+- [관련 개념 정리](https://github.com/gkdms0605/nsc-study/blob/main/communication-skills.md)
 - [의사소통 능력 문제 풀이]()
   
 &nbsp;
@@ -32,7 +32,7 @@
 ## 수리 능력
 > 수리 능력은 예산 수립, 정산, 업무 비용 측정 등 실무에 필요한 기초 연산 능력을 요구합니다. 
 
-- [관련 개념 정리]()
+- [관련 개념 정리](https://github.com/gkdms0605/nsc-study/blob/main/math-skills.md)
 - [수리 능력 문제 풀이]()  
   
 &nbsp;
